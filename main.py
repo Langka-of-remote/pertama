@@ -1,6 +1,5 @@
 """
-ini adalah project pertama dengan python
+ini adalah project pertama dengan python iya
 """
 print("Hello World")
 print("My name in bast")
-perkenalkan my name bast
