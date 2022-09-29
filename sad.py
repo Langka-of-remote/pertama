@@ -1,0 +1,1 @@
+print("kenapa kok nyebelin")
